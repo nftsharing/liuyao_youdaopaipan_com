@@ -24,7 +24,7 @@ https://liuyao.youdaopaipan.com/help.html
 <img width="400" height="2000" alt="image" src="https://github.com/user-attachments/assets/627727a3-7439-429b-9f15-88e12b386a08" />
 
 
-## 六爻的起卦方法
+## 8 附：六爻的起卦方法
 ### 第一个步骤：摇卦。
 首先，准备三个一模一样的硬币，比如一元硬币，笔和纸：
 （1）先记下当前时间，包括：年月日时；
@@ -34,6 +34,8 @@ https://liuyao.youdaopaipan.com/help.html
 ### 第二个步骤：排卦。
 
 常见的六爻排卦软件很多，比如，“有道六爻排盘”，“六爻排盘宝”等，这里推荐使用前者进行排卦。
+
+<img width="334" height="810" alt="image" src="https://github.com/user-attachments/assets/1ca72f92-e76f-4ac8-b96c-bc16bb1208a8" />
 
 现在进行六爻排盘，如图二所示，
 1. 首先输入信息，如：张三占该项目能否签约，
@@ -51,10 +53,6 @@ https://liuyao.youdaopaipan.com/help.html
 
 六爻是中国最常见的占卜方法之一，距今约有两千多年的历史。它的原理是利用易经的“五行生克制化”进行占卜。六爻常被应用于诸如：财、官、福、禄、寿、以及出行等具体事项的吉凶预测。大家不妨尝试一下看看。
 
-
-
-
-<img width="3669" height="1843" alt="image" src="https://github.com/user-attachments/assets/1152aaab-6318-4a5b-8432-f77d76e8db71" />
 
 
 
