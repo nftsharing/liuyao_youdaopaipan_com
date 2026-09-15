@@ -4,6 +4,8 @@ https://liuyao.youdaopaipan.com/
 
 https://liuyao.youdaopaipan.com/help.html
 
+https://www.youdaopaipan.com
+
 ## 1. 什么是六爻？
  <img width="400" height="900" alt="image" src="https://github.com/user-attachments/assets/9c59ff76-232c-4529-a820-c915d9f53216" />
  
