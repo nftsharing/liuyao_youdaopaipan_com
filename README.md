@@ -10,8 +10,9 @@ https://www.youdaopaipan.com
  <img width="400" height="900" alt="image" src="https://github.com/user-attachments/assets/9c59ff76-232c-4529-a820-c915d9f53216" />
  
 ## 2. 如何使用？
-   
- <img width="400" height="900" alt="image" src="https://liuyao.youdaopaipan.com/help/help1.png" />
+
+<img width="300" height="700" alt="image" src="https://github.com/user-attachments/assets/52dd33b3-3ddd-4468-be12-e09743ba7d91" />
+
 
 ## 4. 获得APP？
    
