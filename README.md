@@ -29,6 +29,9 @@ https://www.youdaopaipan.com
 
 ## 8 附：六爻的起卦方法
 ### 第一个步骤：摇卦。
+
+<img width="332" height="264" alt="image" src="https://github.com/user-attachments/assets/80b7557b-f7f1-42d7-9e13-7a5f517a313e" />
+
 首先，准备三个一模一样的硬币，比如一元硬币，笔和纸：
 - （1）先记下当前时间，包括：年月日时；
 - （2）记下想预测的事情；
