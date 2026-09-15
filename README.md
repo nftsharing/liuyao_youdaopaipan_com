@@ -11,7 +11,7 @@ https://www.youdaopaipan.com
  
 ## 2. 如何使用？
 
-<img width="300" height="850" alt="image" src="https://github.com/user-attachments/assets/52dd33b3-3ddd-4468-be12-e09743ba7d91" />
+<img width="400" height="800" alt="image" src="https://github.com/user-attachments/assets/52dd33b3-3ddd-4468-be12-e09743ba7d91" />
 
 
 ## 4. 获得APP？
